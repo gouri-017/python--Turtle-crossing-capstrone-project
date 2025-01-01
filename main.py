@@ -20,7 +20,7 @@ score=Scoreboard()
 screen.listen()
 screen.onkey(p1.up,"Up")
 
-i = 0
+
 on=True
 while on:
     time.sleep(0.1)
